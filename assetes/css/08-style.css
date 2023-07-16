@@ -1,0 +1,12 @@
+nav.nav-el {
+    color: black;
+    background-color: gray;
+    text-align: center;
+}
+div.active {
+    background-color: rgb(58, 42, 42);
+    color: white;
+    padding: 1.2rem;
+}
+
+

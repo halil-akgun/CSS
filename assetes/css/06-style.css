@@ -1,0 +1,25 @@
+* {
+    color: chocolate;
+}
+
+.highlight {
+    color: blue;
+    font-size: 1.3rem;
+}
+
+.center {
+    text-align: center;
+}
+
+#p-1 {
+    color: blueviolet;
+}
+
+span.span1 {
+    font-weight: bold;
+}
+
+p.center {
+    text-align: center;
+    background-color: burlywood;
+}
