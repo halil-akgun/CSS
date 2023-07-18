@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+p.f-style {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-style: oblique;
+}

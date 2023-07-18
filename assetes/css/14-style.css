@@ -1,0 +1,34 @@
+body {
+    height: 100%;
+    font-size: 1.2rem;
+}
+
+div.box1 {
+    background-color: aqua;
+    width: 2cm;
+    height: 30%;
+}
+
+div.box2 {
+    background-color: red;
+    width: 50px;
+    height: 30%;
+}
+
+div.box3 {
+    background-color: blue;
+    width: 50%;
+    height: 100px;
+}
+
+div.box4 {
+    background-color: yellow;
+    width: 50%;
+    height: 30px;
+}
+
+div.box5 {
+    background-color: yellowgreen;
+    width: 50vw;
+    height: 30vh;
+}

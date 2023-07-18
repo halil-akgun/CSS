@@ -1,0 +1,11 @@
+ul.list {
+    list-style-type: "❤️🌹";
+    list-style-position: inside;
+    line-height: 2rem;
+}
+
+ul.img {
+    list-style-image: url("../img/verified\ -\ small.png");
+    list-style-position: inside;
+    line-height: 2rem;
+}
