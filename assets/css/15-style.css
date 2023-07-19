@@ -1,0 +1,16 @@
+div.box1 {
+    background-color: aqua;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+em {
+    margin: 5rem;
+}
+
+/* inline elements do not get margin and padding  vertically*/
+
+b {
+    background-color: aqua;
+    margin: 6rem;
+}
