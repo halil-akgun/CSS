@@ -1,0 +1,27 @@
+div.box {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    transform: translateY(20%);
+    -webkit-transform: translateY(20%);
+    -moz-transform: translateY(20%);
+    -ms-transform: translateY(20%);
+    -o-transform: translateY(20%);
+}
+
+.iphone14 {
+    /* 
+    rotate: normal dondurme
+    rotateX: mesela ogeyi X cubuguna yapistir ve cubugu dondur...
+    rotateY: mesela ogeyi Y cubuguna yapistir ve cubugu dondur...
+
+    translate(a): X ekseninde hareket eder
+    translate(a, b): X ve Y ekseninde hareket eder
+    translateX(a): X ekseninde hareket eder
+    translateY(a): Y ekseninde hareket eder
+*** rotate translate'ten once yazilmissa ve translate(a) kullaniminda oge X ve Y ekseninde hareket eder ***
+
+    scale: buyutme, kucultme
+    */
+    transform: rotate(-60deg) translate(300px) scale(0.5);
+}
